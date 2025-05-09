@@ -1,0 +1,6 @@
+@GranVeiculos2025_HostAddress = http://localhost:5022
+
+GET {{GranVeiculos2025_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
